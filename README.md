@@ -1,0 +1,2 @@
+Este repositorio contiene una serie de ejercicios prácticos realizados en clase de Programacion 2, sobre la sobrecarga de operadores, estructuras de datos de pilas (stack) y colas (queue) utilizando C++.
+Los ejercicios están diseñados para explorar y practicar la implementación de operaciones personalizadas utilizando sobrecarga de operadores en contextos específicos de estructuras de datos lineales.
